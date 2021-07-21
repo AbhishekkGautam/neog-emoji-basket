@@ -62,7 +62,7 @@ export default function App() {
           onChange={emojiInputHandler}
         />
         <div class="outputDiv">
-          <p>Meaning of this Emoji</p>
+          <p>Name of this emoji</p>
           <div id="output-div">{meaning}</div>
         </div>
         <ul className="list-non-bullet">
