@@ -6,4 +6,4 @@ This app helps you in finding the name of fruit's emoji through search or by cli
 
 - ReactJS
 
-Checkout the app here - [Emoji Basket]().
+Checkout the app here - [Emoji Basket](https://emojibasket.netlify.app/).
