@@ -78,6 +78,50 @@ export default function App() {
             );
           })}
         </ul>
+        <div className="footer">
+          <p>
+            Developed by
+            <a
+              href="https://abhishekkgautam.netlify.app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Abhishek Gautam
+            </a>
+          </p>
+          <ul className="social-links list-non-bullet">
+            <li className="list-item-inline">
+              <a
+                target="_blank"
+                class="link"
+                href="https://github.com/AbhishekkGautam"
+                rel="noreferrer"
+              >
+                <i class="fab fa-github fa-1x"></i>
+              </a>
+            </li>
+            <li class="list-item-inline">
+              <a
+                target="_blank"
+                class="link"
+                href="https://twitter.com/helloAbhishekk"
+                rel="noreferrer"
+              >
+                <i class="fab fa-twitter fa-1x"></i>
+              </a>
+            </li>
+            <li class="list-item-inline">
+              <a
+                target="_blank"
+                class="link"
+                href="https://www.linkedin.com/in/abhishek-gautam-54684a167/"
+                rel="noreferrer"
+              >
+                <i class="fab fa-linkedin-in fa-1x"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   );
