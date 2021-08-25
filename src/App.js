@@ -80,7 +80,7 @@ export default function App() {
         </ul>
         <div className="footer">
           <p>
-            Developed by
+            Developed by{" "}
             <a
               href="https://abhishekkgautam.netlify.app"
               target="_blank"
@@ -100,20 +100,20 @@ export default function App() {
                 <i class="fab fa-github fa-1x"></i>
               </a>
             </li>
-            <li class="list-item-inline">
+            <li className="list-item-inline">
               <a
                 target="_blank"
-                class="link"
+                className="link"
                 href="https://twitter.com/helloAbhishekk"
                 rel="noreferrer"
               >
                 <i class="fab fa-twitter fa-1x"></i>
               </a>
             </li>
-            <li class="list-item-inline">
+            <li className="list-item-inline">
               <a
                 target="_blank"
-                class="link"
+                className="link"
                 href="https://www.linkedin.com/in/abhishek-gautam-54684a167/"
                 rel="noreferrer"
               >
