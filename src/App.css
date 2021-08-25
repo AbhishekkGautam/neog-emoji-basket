@@ -112,3 +112,25 @@ code {
   margin-top: 0rem;
   color: var(--dark-yellow);
 }
+
+.footer {
+  width: 90%;
+  margin-top: 0rem;
+  text-align: center;
+}
+
+.footer ul {
+  padding-inline-start: 0px;
+}
+
+.footer a {
+  color: dodgerblue;
+}
+
+.list-non-bullet {
+  list-style: none;
+}
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.8rem;
+}
